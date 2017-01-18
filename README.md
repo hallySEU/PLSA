@@ -1,5 +1,5 @@
 # PLSA
-Liu Yang PLSA
+Liu Yang's PLSA
 
 This is Liu Yang's implementation for EM inference of PLSA. The test data set is Newsgroup-18828, which is included in the project. You can test other data sets with it. Just import the project into Eclipse and run PlsaTest.java to start it without any configuration. The original documents and sample output files have been included.
 
